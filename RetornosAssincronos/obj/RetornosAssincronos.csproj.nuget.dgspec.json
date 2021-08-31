@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsra\\Source\\Repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj": {}
+    "C:\\Users\\jsra\\source\\repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsra\\Source\\Repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj": {
+    "C:\\Users\\jsra\\source\\repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsra\\Source\\Repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj",
+        "projectUniqueName": "C:\\Users\\jsra\\source\\repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj",
         "projectName": "RetornosAssincronos",
-        "projectPath": "C:\\Users\\jsra\\Source\\Repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj",
+        "projectPath": "C:\\Users\\jsra\\source\\repos\\jcarlosrf\\RetornosAssincronos\\RetornosAssincronos.csproj",
         "packagesPath": "C:\\Users\\jsra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jsra\\Source\\Repos\\jcarlosrf\\RetornosAssincronos\\obj\\",
+        "outputPath": "C:\\Users\\jsra\\source\\repos\\jcarlosrf\\RetornosAssincronos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
