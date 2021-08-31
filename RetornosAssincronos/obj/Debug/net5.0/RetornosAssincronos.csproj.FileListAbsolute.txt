@@ -1,0 +1,16 @@
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\RetornosAssincronos.exe
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\RetornosAssincronos.deps.json
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\RetornosAssincronos.runtimeconfig.json
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\RetornosAssincronos.runtimeconfig.dev.json
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\RetornosAssincronos.dll
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\ref\RetornosAssincronos.dll
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\bin\Debug\net5.0\RetornosAssincronos.pdb
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.csproj.AssemblyReference.cache
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.AssemblyInfoInputs.cache
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.AssemblyInfo.cs
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.csproj.CoreCompileInputs.cache
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.dll
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\ref\RetornosAssincronos.dll
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.pdb
+C:\Users\jsra\Source\Repos\jcarlosrf\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.genruntimeconfig.cache
