@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jsra\\source\\repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj": {}
+    "C:\\Users\\jsra\\Source\\Repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jsra\\source\\repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj": {
+    "C:\\Users\\jsra\\Source\\Repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jsra\\source\\repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj",
+        "projectUniqueName": "C:\\Users\\jsra\\Source\\Repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj",
         "projectName": "RetornosAssincronos",
-        "projectPath": "C:\\Users\\jsra\\source\\repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj",
+        "projectPath": "C:\\Users\\jsra\\Source\\Repos\\Estudos\\RetornosAssincronos\\RetornosAssincronos.csproj",
         "packagesPath": "C:\\Users\\jsra\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jsra\\source\\repos\\Estudos\\RetornosAssincronos\\obj\\",
         "projectStyle": "PackageReference",
