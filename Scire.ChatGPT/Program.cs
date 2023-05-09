@@ -12,7 +12,7 @@ namespace Scire.ChatGPT
             try
             {
                 var client = new HttpClient();
-                client.DefaultRequestHeaders.Add("Authorization", "Bearer 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");
+                client.DefaultRequestHeaders.Add("Authorization", "Bearer [minha chave]");
                 var content = new StringContent("{\"prompt\":\"Hello, world!\",\"temperature\":0.7,\"max_tokens\":60,\"top_p\":1,\"frequency_penalty\":0,\"presence_penalty\":0}", Encoding.UTF8, "application/json");
                 var response = await client.PostAsync("https://api.openai.com/v1/engines/ada/completions", content);
                 var result = await response.Content.ReadAsStringAsync();
