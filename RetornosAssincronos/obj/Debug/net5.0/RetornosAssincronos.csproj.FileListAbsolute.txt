@@ -26,7 +26,7 @@ C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\Retornos
 C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.AssemblyInfo.cs
 C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.csproj.CoreCompileInputs.cache
 C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.dll
-C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\refint\RetornosAssincronos.dll
 C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.pdb
 C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\RetornosAssincronos.genruntimeconfig.cache
 C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\obj\Debug\net5.0\ref\RetornosAssincronos.dll
+C:\Users\jsra\source\repos\Estudos\RetornosAssincronos\bin\Debug\net5.0\ref\RetornosAssincronos.dll
