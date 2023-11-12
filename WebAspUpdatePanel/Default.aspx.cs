@@ -57,7 +57,7 @@ namespace WebAspUpdatePanel
                 };
 
             Chart1.Series["Série 1"].Points.DataBind(dataChart, "XValue", "YValue", "");
-
+            upd1.Update();
         }
     }
 }

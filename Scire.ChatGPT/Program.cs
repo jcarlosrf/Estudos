@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,10 +12,18 @@ namespace Scire.ChatGPT
         {
             try
             {
+                // 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
+                // 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
+
                 var client = new HttpClient();
-                client.DefaultRequestHeaders.Add("Authorization", "Bearer [minha chave]");
-                var content = new StringContent("{\"prompt\":\"Hello, world!\",\"temperature\":0.7,\"max_tokens\":60,\"top_p\":1,\"frequency_penalty\":0,\"presence_penalty\":0}", Encoding.UTF8, "application/json");
-                var response = await client.PostAsync("https://api.openai.com/v1/engines/ada/completions", content);
+                client.DefaultRequestHeaders.Add("Authorization", "Bearer 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");
+
+                // Carregar o conteúdo do arquivo envio.json
+                string arquivoPath = Path.Combine("C:\\Users\\jsra\\source\\repos\\Estudos\\Scire.ChatGPT\\", "envio.json");
+                string jsonContent = File.ReadAllText(arquivoPath);
+
+                var content = new StringContent(jsonContent, Encoding.UTF8, "application/json");
+                var response = await client.PostAsync("https://api.openai.com/v1/completions", content);
                 var result = await response.Content.ReadAsStringAsync();
                 Console.WriteLine(result);
 
